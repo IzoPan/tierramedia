@@ -1,0 +1,142 @@
+{
+  "title": "Terra Media",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "label": "Hierbas",
+      "type": "Item",
+      "name": "hierbas",
+      "path": "packs/hierbas.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "scythe-master",
+      "type": "Item",
+      "name": "scythe-master",
+      "path": "packs/scythe-master.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Backgrounds",
+      "name": "ddb-prueba-de-don-panizo-y-don-lobo-backgrounds",
+      "type": "Item",
+      "path": "packs/ddb-prueba-de-don-panizo-y-don-lobo-backgrounds.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Classes",
+      "name": "ddb-prueba-de-don-panizo-y-don-lobo-classes",
+      "type": "Item",
+      "path": "packs/ddb-prueba-de-don-panizo-y-don-lobo-classes.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Subclasses",
+      "name": "ddb-prueba-de-don-panizo-y-don-lobo-subclasses",
+      "type": "Item",
+      "path": "packs/ddb-prueba-de-don-panizo-y-don-lobo-subclasses.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Class Features",
+      "name": "ddb-prueba-de-don-panizo-y-don-lobo-class-features",
+      "type": "Item",
+      "path": "packs/ddb-prueba-de-don-panizo-y-don-lobo-class-features.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Feats",
+      "name": "ddb-prueba-de-don-panizo-y-don-lobo-feats",
+      "type": "Item",
+      "path": "packs/ddb-prueba-de-don-panizo-y-don-lobo-feats.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Items",
+      "name": "ddb-prueba-de-don-panizo-y-don-lobo-items",
+      "type": "Item",
+      "path": "packs/ddb-prueba-de-don-panizo-y-don-lobo-items.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Monsters",
+      "name": "ddb-prueba-de-don-panizo-y-don-lobo-monsters",
+      "type": "Actor",
+      "path": "packs/ddb-prueba-de-don-panizo-y-don-lobo-monsters.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Races",
+      "name": "ddb-prueba-de-don-panizo-y-don-lobo-races",
+      "type": "Item",
+      "path": "packs/ddb-prueba-de-don-panizo-y-don-lobo-races.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Racial Traits",
+      "name": "ddb-prueba-de-don-panizo-y-don-lobo-racial-traits",
+      "type": "Item",
+      "path": "packs/ddb-prueba-de-don-panizo-y-don-lobo-racial-traits.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Spells",
+      "name": "ddb-prueba-de-don-panizo-y-don-lobo-spells",
+      "type": "Item",
+      "path": "packs/ddb-prueba-de-don-panizo-y-don-lobo-spells.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Tables",
+      "name": "ddb-prueba-de-don-panizo-y-don-lobo-tables",
+      "type": "RollTable",
+      "path": "packs/ddb-prueba-de-don-panizo-y-don-lobo-tables.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Override",
+      "name": "ddb-prueba-de-don-panizo-y-don-lobo-override",
+      "type": "Item",
+      "path": "packs/ddb-prueba-de-don-panizo-y-don-lobo-override.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "system": "dnd5e",
+  "coreVersion": "10.284",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "2.0.2",
+  "id": "prueba-de-don-panizo-y-don-lobo",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.284"
+  }
+}
